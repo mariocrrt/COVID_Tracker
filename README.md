@@ -12,7 +12,7 @@ Sending data to a Telegram channel.
 
 ### REST API + PostgreSQL
 
-Saving data on a PostgreSQL Database, and display it on a RESTful API built with Flask.
+Saving data on a PostgreSQL Database, and displaying it on a RESTful API built with Flask.
 
 ### CI/CD
 
